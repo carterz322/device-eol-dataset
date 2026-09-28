@@ -1,0 +1,3099 @@
+{
+  "name": "Device end-of-support dataset",
+  "description": "Published security and OS update end dates for consumer phones, tablets and laptops, with source citations.",
+  "homepage": "https://devicelifespan.com",
+  "license": "CC-BY-4.0",
+  "generated": "2026-09-28",
+  "deviceCount": 92,
+  "devices": [
+    {
+      "id": "iphone-xr",
+      "name": "iPhone XR",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2018-09",
+      "osUpdateEnd": "2024-09",
+      "securityEnd": "2027-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-13",
+        "iphone-15"
+      ]
+    },
+    {
+      "id": "iphone-11",
+      "name": "iPhone 11",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2019-09",
+      "osUpdateEnd": "2025-09",
+      "securityEnd": "2028-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-15",
+        "iphone-16"
+      ]
+    },
+    {
+      "id": "iphone-se-2",
+      "name": "iPhone SE (2nd gen)",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2020-04",
+      "osUpdateEnd": "2025-09",
+      "securityEnd": "2028-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": [
+        "iphone-se-3",
+        "iphone-16"
+      ]
+    },
+    {
+      "id": "iphone-12",
+      "name": "iPhone 12",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2020-10",
+      "osUpdateEnd": "2026-09",
+      "securityEnd": "2029-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-15",
+        "iphone-16"
+      ]
+    },
+    {
+      "id": "iphone-13",
+      "name": "iPhone 13",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2021-09",
+      "osUpdateEnd": "2027-09",
+      "securityEnd": "2030-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-16",
+        "iphone-17"
+      ]
+    },
+    {
+      "id": "iphone-se-3",
+      "name": "iPhone SE (3rd gen)",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2022-03",
+      "osUpdateEnd": "2027-09",
+      "securityEnd": "2030-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": [
+        "iphone-16"
+      ]
+    },
+    {
+      "id": "iphone-14",
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2022-09",
+      "osUpdateEnd": "2028-09",
+      "securityEnd": "2031-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-17"
+      ]
+    },
+    {
+      "id": "iphone-14-plus",
+      "name": "iPhone 14 Plus",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2022-09",
+      "osUpdateEnd": "2028-09",
+      "securityEnd": "2031-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-17"
+      ]
+    },
+    {
+      "id": "iphone-15",
+      "name": "iPhone 15",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2023-09",
+      "osUpdateEnd": "2029-09",
+      "securityEnd": "2032-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-17"
+      ]
+    },
+    {
+      "id": "iphone-16",
+      "name": "iPhone 16",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2024-09",
+      "osUpdateEnd": "2030-09",
+      "securityEnd": "2033-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-17"
+      ]
+    },
+    {
+      "id": "iphone-16-pro",
+      "name": "iPhone 16 Pro",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2024-09",
+      "osUpdateEnd": "2030-09",
+      "securityEnd": "2033-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "iphone-17-pro"
+      ]
+    },
+    {
+      "id": "iphone-17",
+      "name": "iPhone 17",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2025-09",
+      "osUpdateEnd": "2031-09",
+      "securityEnd": "2034-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": []
+    },
+    {
+      "id": "iphone-17-pro",
+      "name": "iPhone 17 Pro",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2025-09",
+      "osUpdateEnd": "2031-09",
+      "securityEnd": "2034-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPhone models compatible with iOS 26",
+          "url": "https://support.apple.com/guide/iphone/iphone-models-compatible-with-ios-26-iphe3fa5df43/ios"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": []
+    },
+    {
+      "id": "pixel-3",
+      "name": "Pixel 3",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2018-10",
+      "osUpdateEnd": "2021-10",
+      "securityEnd": "2021-10",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "pixel-8",
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "pixel-5",
+      "name": "Pixel 5",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2020-10",
+      "osUpdateEnd": "2023-10",
+      "securityEnd": "2023-10",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "pixel-8",
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "pixel-6",
+      "name": "Pixel 6",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2021-10",
+      "osUpdateEnd": "2026-10",
+      "securityEnd": "2026-10",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        },
+        {
+          "label": "Google extends Pixel 6, 7 and Fold to five years of OS updates (Dec 2024)",
+          "url": "https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/"
+        }
+      ],
+      "lastVerified": "2026-09-28",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "pixel-8",
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "pixel-6a",
+      "name": "Pixel 6a",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2022-07",
+      "osUpdateEnd": "2027-07",
+      "securityEnd": "2027-07",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        },
+        {
+          "label": "Google extends Pixel 6, 7 and Fold to five years of OS updates (Dec 2024)",
+          "url": "https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/"
+        }
+      ],
+      "lastVerified": "2026-09-28",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": [
+        "pixel-8",
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "pixel-7",
+      "name": "Pixel 7",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2022-10",
+      "osUpdateEnd": "2027-10",
+      "securityEnd": "2027-10",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        },
+        {
+          "label": "Google extends Pixel 6, 7 and Fold to five years of OS updates (Dec 2024)",
+          "url": "https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/"
+        }
+      ],
+      "lastVerified": "2026-09-28",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "pixel-7a",
+      "name": "Pixel 7a",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2023-05",
+      "osUpdateEnd": "2028-05",
+      "securityEnd": "2028-05",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        },
+        {
+          "label": "Google extends Pixel 6, 7 and Fold to five years of OS updates (Dec 2024)",
+          "url": "https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/"
+        }
+      ],
+      "lastVerified": "2026-09-28",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": [
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "pixel-fold",
+      "name": "Pixel Fold",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2023-06",
+      "osUpdateEnd": "2028-06",
+      "securityEnd": "2028-06",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        },
+        {
+          "label": "Google extends Pixel 6, 7 and Fold to five years of OS updates (Dec 2024)",
+          "url": "https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/"
+        }
+      ],
+      "lastVerified": "2026-09-28",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 2
+      },
+      "wearTier": "phoneFoldable",
+      "wearFactors": {
+        "label": "Folding phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Hinge and folding display are additional wear points no other phone has."
+      },
+      "successors": [
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "pixel-8",
+      "name": "Pixel 8",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2023-10",
+      "osUpdateEnd": "2030-10",
+      "securityEnd": "2030-10",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "pixel-9",
+      "name": "Pixel 9",
+      "brand": "Google",
+      "type": "phone",
+      "released": "2024-08",
+      "osUpdateEnd": "2031-08",
+      "securityEnd": "2031-08",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Google Pixel update schedule",
+          "url": "https://support.google.com/pixelphone/answer/4457705"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-s9",
+      "name": "Galaxy S9",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2018-03",
+      "osUpdateEnd": "2020-04",
+      "securityEnd": "2022-04",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "galaxy-s24",
+        "galaxy-s25"
+      ]
+    },
+    {
+      "id": "galaxy-s20",
+      "name": "Galaxy S20",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2020-03",
+      "osUpdateEnd": "2023-03",
+      "securityEnd": "2025-03",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "galaxy-s24",
+        "galaxy-s25"
+      ]
+    },
+    {
+      "id": "galaxy-note-20",
+      "name": "Galaxy Note 20",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2020-08",
+      "osUpdateEnd": "2023-08",
+      "securityEnd": "2025-09",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "galaxy-s24-ultra"
+      ]
+    },
+    {
+      "id": "galaxy-s21",
+      "name": "Galaxy S21",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2021-01",
+      "osUpdateEnd": "2024-01",
+      "securityEnd": "2026-02",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "galaxy-s24",
+        "galaxy-s25"
+      ]
+    },
+    {
+      "id": "galaxy-s22",
+      "name": "Galaxy S22",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2022-02",
+      "osUpdateEnd": "2026-02",
+      "securityEnd": "2027-02",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "galaxy-s25"
+      ]
+    },
+    {
+      "id": "galaxy-s23",
+      "name": "Galaxy S23",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2023-02",
+      "osUpdateEnd": "2027-02",
+      "securityEnd": "2028-02",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "galaxy-s25"
+      ]
+    },
+    {
+      "id": "galaxy-a14",
+      "name": "Galaxy A14",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2023-05",
+      "osUpdateEnd": "2025-05",
+      "securityEnd": "2027-05",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "phoneBudget",
+      "wearFactors": {
+        "label": "Budget phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Budget chassis and battery; throttles under load."
+      },
+      "successors": [
+        "galaxy-a55"
+      ]
+    },
+    {
+      "id": "galaxy-a34",
+      "name": "Galaxy A34",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2023-03",
+      "osUpdateEnd": "2027-03",
+      "securityEnd": "2028-03",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": [
+        "galaxy-a55"
+      ]
+    },
+    {
+      "id": "galaxy-a54",
+      "name": "Galaxy A54",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2023-03",
+      "osUpdateEnd": "2027-03",
+      "securityEnd": "2028-03",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": [
+        "galaxy-a55"
+      ]
+    },
+    {
+      "id": "galaxy-z-flip-5",
+      "name": "Galaxy Z Flip 5",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2023-08",
+      "osUpdateEnd": "2027-08",
+      "securityEnd": "2028-08",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 2
+      },
+      "wearTier": "phoneFoldable",
+      "wearFactors": {
+        "label": "Folding phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Hinge and folding display are additional wear points no other phone has."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-z-fold-5",
+      "name": "Galaxy Z Fold 5",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2023-08",
+      "osUpdateEnd": "2027-08",
+      "securityEnd": "2028-08",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 2
+      },
+      "wearTier": "phoneFoldable",
+      "wearFactors": {
+        "label": "Folding phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Hinge and folding display are additional wear points no other phone has."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-a15",
+      "name": "Galaxy A15",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2023-12",
+      "osUpdateEnd": "2027-12",
+      "securityEnd": "2028-12",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "phoneBudget",
+      "wearFactors": {
+        "label": "Budget phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Budget chassis and battery; throttles under load."
+      },
+      "successors": [
+        "galaxy-a55"
+      ]
+    },
+    {
+      "id": "galaxy-a25",
+      "name": "Galaxy A25",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2023-12",
+      "osUpdateEnd": "2027-12",
+      "securityEnd": "2028-12",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": [
+        "galaxy-a55"
+      ]
+    },
+    {
+      "id": "galaxy-s24",
+      "name": "Galaxy S24",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2024-01",
+      "osUpdateEnd": "2031-01",
+      "securityEnd": "2031-01",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "galaxy-s25"
+      ]
+    },
+    {
+      "id": "galaxy-s24-ultra",
+      "name": "Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2024-01",
+      "osUpdateEnd": "2031-01",
+      "securityEnd": "2031-01",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "galaxy-s25"
+      ]
+    },
+    {
+      "id": "galaxy-a55",
+      "name": "Galaxy A55",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2024-03",
+      "osUpdateEnd": "2028-03",
+      "securityEnd": "2029-03",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-s25",
+      "name": "Galaxy S25",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2025-02",
+      "osUpdateEnd": "2032-02",
+      "securityEnd": "2032-02",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update list",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": []
+    },
+    {
+      "id": "lg-v60-thinq",
+      "name": "V60 ThinQ",
+      "brand": "LG",
+      "type": "phone",
+      "released": "2020-03",
+      "osUpdateEnd": "2022-03",
+      "securityEnd": "2023-03",
+      "supportConfidence": "pattern-estimate",
+      "sources": [],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "pixel-9",
+        "galaxy-s25"
+      ]
+    },
+    {
+      "id": "xiaomi-13",
+      "name": "Xiaomi 13",
+      "brand": "Xiaomi",
+      "type": "phone",
+      "released": "2023-02",
+      "osUpdateEnd": "2026-02",
+      "securityEnd": "2028-02",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Xiaomi security update policy",
+          "url": "https://trust.mi.com/misrc/updates"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": []
+    },
+    {
+      "id": "moto-g-power",
+      "name": "Moto G Power",
+      "brand": "Motorola",
+      "type": "phone",
+      "released": "2023-04",
+      "osUpdateEnd": "2024-04",
+      "securityEnd": "2026-04",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Motorola software and security schedule",
+          "url": "https://en-us.support.motorola.com/app/software-security-update"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "phoneBudget",
+      "wearFactors": {
+        "label": "Budget phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Budget chassis and battery; throttles under load."
+      },
+      "successors": [
+        "galaxy-a55",
+        "pixel-9"
+      ]
+    },
+    {
+      "id": "motorola-razr-plus",
+      "name": "Razr+",
+      "brand": "Motorola",
+      "type": "phone",
+      "released": "2023-06",
+      "osUpdateEnd": "2026-06",
+      "securityEnd": "2027-06",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Motorola software and security schedule",
+          "url": "https://en-us.support.motorola.com/app/software-security-update"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 2
+      },
+      "wearTier": "phoneFoldable",
+      "wearFactors": {
+        "label": "Folding phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Hinge and folding display are additional wear points no other phone has."
+      },
+      "successors": []
+    },
+    {
+      "id": "oneplus-11",
+      "name": "OnePlus 11",
+      "brand": "OnePlus",
+      "type": "phone",
+      "released": "2023-02",
+      "osUpdateEnd": "2027-02",
+      "securityEnd": "2028-02",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "OnePlus software upgrade schedule",
+          "url": "https://www.oneplus.com/us/support/softwareupgrade"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": [
+        "oneplus-12"
+      ]
+    },
+    {
+      "id": "nothing-phone-2",
+      "name": "Phone (2)",
+      "brand": "Nothing",
+      "type": "phone",
+      "released": "2023-07",
+      "osUpdateEnd": "2026-07",
+      "securityEnd": "2027-07",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Nothing support and software updates",
+          "url": "https://nothing.tech/pages/support"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": []
+    },
+    {
+      "id": "oneplus-nord-3",
+      "name": "Nord 3",
+      "brand": "OnePlus",
+      "type": "phone",
+      "released": "2023-07",
+      "osUpdateEnd": "2026-07",
+      "securityEnd": "2027-07",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "OnePlus software upgrade schedule",
+          "url": "https://www.oneplus.com/us/support/softwareupgrade"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "phoneMid",
+      "wearFactors": {
+        "label": "Mid-range phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Mid-range build; smaller battery budget."
+      },
+      "successors": [
+        "oneplus-12"
+      ]
+    },
+    {
+      "id": "oneplus-12",
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "type": "phone",
+      "released": "2024-01",
+      "osUpdateEnd": "2028-01",
+      "securityEnd": "2029-01",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "OnePlus software upgrade schedule",
+          "url": "https://www.oneplus.com/us/support/softwareupgrade"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": []
+    },
+    {
+      "id": "macbook-pro-13-intel-2019",
+      "name": "MacBook Pro 13\" (Intel, 2019)",
+      "brand": "Apple",
+      "type": "laptop",
+      "released": "2019-07",
+      "osUpdateEnd": "2024-09",
+      "securityEnd": "2027-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple macOS Tahoe 26 compatible Macs",
+          "url": "https://support.apple.com/en-us/122867"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "macIntel",
+      "wearFactors": {
+        "label": "Intel MacBook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Intel-era thermals are far harder on the battery than Apple Silicon."
+      },
+      "successors": [
+        "macbook-air-m3",
+        "macbook-pro-14-m3"
+      ]
+    },
+    {
+      "id": "macbook-air-intel-2020",
+      "name": "MacBook Air (Intel, 2020)",
+      "brand": "Apple",
+      "type": "laptop",
+      "released": "2020-03",
+      "osUpdateEnd": "2024-09",
+      "securityEnd": "2027-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple macOS Tahoe 26 compatible Macs",
+          "url": "https://support.apple.com/en-us/122867"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "macIntel",
+      "wearFactors": {
+        "label": "Intel MacBook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Intel-era thermals are far harder on the battery than Apple Silicon."
+      },
+      "successors": [
+        "macbook-air-m3"
+      ]
+    },
+    {
+      "id": "macbook-air-m1",
+      "name": "MacBook Air (M1)",
+      "brand": "Apple",
+      "type": "laptop",
+      "released": "2020-11",
+      "osUpdateEnd": "2027-09",
+      "securityEnd": "2030-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple macOS Tahoe 26 compatible Macs",
+          "url": "https://support.apple.com/en-us/122867"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 9,
+        "moderate": 8,
+        "heavy": 6
+      },
+      "wearTier": "macApple",
+      "wearFactors": {
+        "label": "Apple Silicon MacBook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Apple Silicon runs cool and efficient; battery is the practical limit."
+      },
+      "successors": [
+        "macbook-air-m3"
+      ]
+    },
+    {
+      "id": "macbook-pro-m1",
+      "name": "MacBook Pro (M1 Pro/Max)",
+      "brand": "Apple",
+      "type": "laptop",
+      "released": "2021-10",
+      "osUpdateEnd": "2028-09",
+      "securityEnd": "2031-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple macOS Tahoe 26 compatible Macs",
+          "url": "https://support.apple.com/en-us/122867"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 9,
+        "moderate": 8,
+        "heavy": 6
+      },
+      "wearTier": "macApple",
+      "wearFactors": {
+        "label": "Apple Silicon MacBook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Apple Silicon runs cool and efficient; battery is the practical limit."
+      },
+      "successors": [
+        "macbook-pro-14-m3"
+      ]
+    },
+    {
+      "id": "macbook-air-m2",
+      "name": "MacBook Air (M2)",
+      "brand": "Apple",
+      "type": "laptop",
+      "released": "2022-07",
+      "osUpdateEnd": "2029-09",
+      "securityEnd": "2032-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple macOS Tahoe 26 compatible Macs",
+          "url": "https://support.apple.com/en-us/122867"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 9,
+        "moderate": 8,
+        "heavy": 6
+      },
+      "wearTier": "macApple",
+      "wearFactors": {
+        "label": "Apple Silicon MacBook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Apple Silicon runs cool and efficient; battery is the practical limit."
+      },
+      "successors": [
+        "macbook-air-m3"
+      ]
+    },
+    {
+      "id": "macbook-pro-14-m3",
+      "name": "MacBook Pro 14\" (M3)",
+      "brand": "Apple",
+      "type": "laptop",
+      "released": "2023-11",
+      "osUpdateEnd": "2030-09",
+      "securityEnd": "2033-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple macOS Tahoe 26 compatible Macs",
+          "url": "https://support.apple.com/en-us/122867"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 9,
+        "moderate": 8,
+        "heavy": 6
+      },
+      "wearTier": "macApple",
+      "wearFactors": {
+        "label": "Apple Silicon MacBook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Apple Silicon runs cool and efficient; battery is the practical limit."
+      },
+      "successors": []
+    },
+    {
+      "id": "macbook-pro-16-m3",
+      "name": "MacBook Pro 16\" (M3)",
+      "brand": "Apple",
+      "type": "laptop",
+      "released": "2023-11",
+      "osUpdateEnd": "2030-09",
+      "securityEnd": "2033-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple macOS Tahoe 26 compatible Macs",
+          "url": "https://support.apple.com/en-us/122867"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 9,
+        "moderate": 8,
+        "heavy": 6
+      },
+      "wearTier": "macApple",
+      "wearFactors": {
+        "label": "Apple Silicon MacBook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Apple Silicon runs cool and efficient; battery is the practical limit."
+      },
+      "successors": []
+    },
+    {
+      "id": "macbook-air-m3",
+      "name": "MacBook Air (M3)",
+      "brand": "Apple",
+      "type": "laptop",
+      "released": "2024-03",
+      "osUpdateEnd": "2031-09",
+      "securityEnd": "2034-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple macOS Tahoe 26 compatible Macs",
+          "url": "https://support.apple.com/en-us/122867"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 9,
+        "moderate": 8,
+        "heavy": 6
+      },
+      "wearTier": "macApple",
+      "wearFactors": {
+        "label": "Apple Silicon MacBook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Apple Silicon runs cool and efficient; battery is the practical limit."
+      },
+      "successors": []
+    },
+    {
+      "id": "acer-chromebook-514",
+      "name": "Chromebook 514",
+      "brand": "Acer",
+      "type": "laptop",
+      "released": "2021-06",
+      "osUpdateEnd": "2029-06",
+      "securityEnd": "2029-06",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Google ChromeOS Auto Update policy",
+          "url": "https://support.google.com/chrome/a/answer/6220366"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "chromebook",
+      "wearFactors": {
+        "label": "Chromebook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Light workload extends hardware life well past the AUE date."
+      },
+      "successors": [
+        "hp-chromebook-14"
+      ]
+    },
+    {
+      "id": "chromebook-duet",
+      "name": "Chromebook Duet 3",
+      "brand": "Lenovo",
+      "type": "laptop",
+      "released": "2022-06",
+      "osUpdateEnd": "2032-06",
+      "securityEnd": "2032-06",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Google ChromeOS Auto Update policy",
+          "url": "https://support.google.com/chrome/a/answer/6220366"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "chromebook",
+      "wearFactors": {
+        "label": "Chromebook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Light workload extends hardware life well past the AUE date."
+      },
+      "successors": []
+    },
+    {
+      "id": "hp-chromebook-14",
+      "name": "Chromebook 14",
+      "brand": "HP",
+      "type": "laptop",
+      "released": "2022-06",
+      "osUpdateEnd": "2030-06",
+      "securityEnd": "2030-06",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Google ChromeOS Auto Update policy",
+          "url": "https://support.google.com/chrome/a/answer/6220366"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "chromebook",
+      "wearFactors": {
+        "label": "Chromebook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Light workload extends hardware life well past the AUE date."
+      },
+      "successors": []
+    },
+    {
+      "id": "acer-swift-3",
+      "name": "Swift 3",
+      "brand": "Acer",
+      "type": "laptop",
+      "released": "2022-03",
+      "osUpdateEnd": "2028-03",
+      "securityEnd": "2028-03",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 6,
+        "heavy": 5
+      },
+      "wearTier": "ultrabook",
+      "wearFactors": {
+        "label": "Premium ultrabook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Soldered RAM and storage; premium build."
+      },
+      "successors": [
+        "asus-zenbook-14"
+      ]
+    },
+    {
+      "id": "acer-aspire-5",
+      "name": "Aspire 5",
+      "brand": "Acer",
+      "type": "laptop",
+      "released": "2022-03",
+      "osUpdateEnd": "2028-03",
+      "securityEnd": "2028-03",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "budgetLaptop",
+      "wearFactors": {
+        "label": "Budget laptop",
+        "batteryReplaceable": false,
+        "userServiceable": true,
+        "thermalLoad": "high",
+        "note": "Plastic chassis, modest cooling; hinges and batteries fail first."
+      },
+      "successors": [
+        "asus-vivobook-15"
+      ]
+    },
+    {
+      "id": "asus-vivobook-15",
+      "name": "VivoBook 15",
+      "brand": "Asus",
+      "type": "laptop",
+      "released": "2022-04",
+      "osUpdateEnd": "2028-04",
+      "securityEnd": "2028-04",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "budgetLaptop",
+      "wearFactors": {
+        "label": "Budget laptop",
+        "batteryReplaceable": false,
+        "userServiceable": true,
+        "thermalLoad": "high",
+        "note": "Plastic chassis, modest cooling; hinges and batteries fail first."
+      },
+      "successors": []
+    },
+    {
+      "id": "hp-pavilion-15",
+      "name": "Pavilion 15",
+      "brand": "HP",
+      "type": "laptop",
+      "released": "2022-05",
+      "osUpdateEnd": "2028-05",
+      "securityEnd": "2028-05",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "budgetLaptop",
+      "wearFactors": {
+        "label": "Budget laptop",
+        "batteryReplaceable": false,
+        "userServiceable": true,
+        "thermalLoad": "high",
+        "note": "Plastic chassis, modest cooling; hinges and batteries fail first."
+      },
+      "successors": []
+    },
+    {
+      "id": "ideapad-3",
+      "name": "IdeaPad 3",
+      "brand": "Lenovo",
+      "type": "laptop",
+      "released": "2022-05",
+      "osUpdateEnd": "2028-05",
+      "securityEnd": "2028-05",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "budgetLaptop",
+      "wearFactors": {
+        "label": "Budget laptop",
+        "batteryReplaceable": false,
+        "userServiceable": true,
+        "thermalLoad": "high",
+        "note": "Plastic chassis, modest cooling; hinges and batteries fail first."
+      },
+      "successors": []
+    },
+    {
+      "id": "surface-laptop-go-2",
+      "name": "Surface Laptop Go 2",
+      "brand": "Microsoft",
+      "type": "laptop",
+      "released": "2022-06",
+      "osUpdateEnd": "2028-06",
+      "securityEnd": "2028-06",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Microsoft Surface driver and firmware lifecycle",
+          "url": "https://learn.microsoft.com/en-us/surface/surface-driver-firmware-lifecycle-support"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 6,
+        "heavy": 5
+      },
+      "wearTier": "ultrabook",
+      "wearFactors": {
+        "label": "Premium ultrabook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Soldered RAM and storage; premium build."
+      },
+      "successors": [
+        "surface-laptop-5"
+      ]
+    },
+    {
+      "id": "dell-xps-13",
+      "name": "XPS 13",
+      "brand": "Dell",
+      "type": "laptop",
+      "released": "2022-04",
+      "osUpdateEnd": "2028-04",
+      "securityEnd": "2028-04",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 6,
+        "heavy": 5
+      },
+      "wearTier": "ultrabook",
+      "wearFactors": {
+        "label": "Premium ultrabook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Soldered RAM and storage; premium build."
+      },
+      "successors": []
+    },
+    {
+      "id": "latitude-5430",
+      "name": "Latitude 5430",
+      "brand": "Dell",
+      "type": "laptop",
+      "released": "2022-03",
+      "osUpdateEnd": "2029-03",
+      "securityEnd": "2029-03",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 9,
+        "moderate": 7,
+        "heavy": 6
+      },
+      "wearTier": "business",
+      "wearFactors": {
+        "label": "Business laptop",
+        "batteryReplaceable": true,
+        "userServiceable": true,
+        "thermalLoad": "moderate",
+        "note": "Serviceable chassis with documented parts availability."
+      },
+      "successors": []
+    },
+    {
+      "id": "thinkpad-x1-carbon",
+      "name": "ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "type": "laptop",
+      "released": "2022-03",
+      "osUpdateEnd": "2029-03",
+      "securityEnd": "2029-03",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 9,
+        "moderate": 7,
+        "heavy": 6
+      },
+      "wearTier": "business",
+      "wearFactors": {
+        "label": "Business laptop",
+        "batteryReplaceable": true,
+        "userServiceable": true,
+        "thermalLoad": "moderate",
+        "note": "Serviceable chassis with documented parts availability."
+      },
+      "successors": []
+    },
+    {
+      "id": "surface-laptop-5",
+      "name": "Surface Laptop 5",
+      "brand": "Microsoft",
+      "type": "laptop",
+      "released": "2022-10",
+      "osUpdateEnd": "2028-10",
+      "securityEnd": "2028-10",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Microsoft Surface driver and firmware lifecycle",
+          "url": "https://learn.microsoft.com/en-us/surface/surface-driver-firmware-lifecycle-support"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 6,
+        "heavy": 5
+      },
+      "wearTier": "ultrabook",
+      "wearFactors": {
+        "label": "Premium ultrabook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Soldered RAM and storage; premium build."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-book3",
+      "name": "Galaxy Book3",
+      "brand": "Samsung",
+      "type": "laptop",
+      "released": "2023-02",
+      "osUpdateEnd": "2029-02",
+      "securityEnd": "2029-02",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 6,
+        "heavy": 5
+      },
+      "wearTier": "ultrabook",
+      "wearFactors": {
+        "label": "Premium ultrabook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Soldered RAM and storage; premium build."
+      },
+      "successors": []
+    },
+    {
+      "id": "dell-inspiron-15",
+      "name": "Inspiron 15",
+      "brand": "Dell",
+      "type": "laptop",
+      "released": "2023-03",
+      "osUpdateEnd": "2029-03",
+      "securityEnd": "2029-03",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "budgetLaptop",
+      "wearFactors": {
+        "label": "Budget laptop",
+        "batteryReplaceable": false,
+        "userServiceable": true,
+        "thermalLoad": "high",
+        "note": "Plastic chassis, modest cooling; hinges and batteries fail first."
+      },
+      "successors": []
+    },
+    {
+      "id": "asus-zenbook-14",
+      "name": "Zenbook 14",
+      "brand": "Asus",
+      "type": "laptop",
+      "released": "2023-04",
+      "osUpdateEnd": "2029-04",
+      "securityEnd": "2029-04",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 6,
+        "heavy": 5
+      },
+      "wearTier": "ultrabook",
+      "wearFactors": {
+        "label": "Premium ultrabook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Soldered RAM and storage; premium build."
+      },
+      "successors": []
+    },
+    {
+      "id": "framework-laptop-13",
+      "name": "Framework Laptop 13",
+      "brand": "Framework",
+      "type": "laptop",
+      "released": "2023-05",
+      "osUpdateEnd": "2031-05",
+      "securityEnd": "2031-05",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Framework long-term support and repairability",
+          "url": "https://frame.work/about"
+        },
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 12,
+        "moderate": 10,
+        "heavy": 8
+      },
+      "wearTier": "modular",
+      "wearFactors": {
+        "label": "Modular laptop",
+        "batteryReplaceable": true,
+        "userServiceable": true,
+        "thermalLoad": "moderate",
+        "note": "Every part is user-replaceable and sold individually, including the mainboard."
+      },
+      "successors": []
+    },
+    {
+      "id": "rog-zephyrus-g14",
+      "name": "ROG Zephyrus G14",
+      "brand": "Asus",
+      "type": "laptop",
+      "released": "2023-04",
+      "osUpdateEnd": "2029-04",
+      "securityEnd": "2029-04",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "gaming",
+      "wearFactors": {
+        "label": "Gaming laptop",
+        "batteryReplaceable": false,
+        "userServiceable": true,
+        "thermalLoad": "very high",
+        "note": "Sustained high thermals and fan wear; battery cycles hard."
+      },
+      "successors": []
+    },
+    {
+      "id": "legion-5",
+      "name": "Legion 5",
+      "brand": "Lenovo",
+      "type": "laptop",
+      "released": "2023-05",
+      "osUpdateEnd": "2029-05",
+      "securityEnd": "2029-05",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "gaming",
+      "wearFactors": {
+        "label": "Gaming laptop",
+        "batteryReplaceable": false,
+        "userServiceable": true,
+        "thermalLoad": "very high",
+        "note": "Sustained high thermals and fan wear; battery cycles hard."
+      },
+      "successors": []
+    },
+    {
+      "id": "alienware-m16",
+      "name": "Alienware m16",
+      "brand": "Alienware",
+      "type": "laptop",
+      "released": "2023-02",
+      "osUpdateEnd": "2029-02",
+      "securityEnd": "2029-02",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": "gaming",
+      "wearFactors": {
+        "label": "Gaming laptop",
+        "batteryReplaceable": false,
+        "userServiceable": true,
+        "thermalLoad": "very high",
+        "note": "Sustained high thermals and fan wear; battery cycles hard."
+      },
+      "successors": []
+    },
+    {
+      "id": "hp-spectre-x360",
+      "name": "Spectre x360",
+      "brand": "HP",
+      "type": "laptop",
+      "released": "2023-06",
+      "osUpdateEnd": "2029-06",
+      "securityEnd": "2029-06",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 6,
+        "heavy": 5
+      },
+      "wearTier": "ultrabook",
+      "wearFactors": {
+        "label": "Premium ultrabook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Soldered RAM and storage; premium build."
+      },
+      "successors": []
+    },
+    {
+      "id": "lenovo-yoga-7i",
+      "name": "Yoga 7i",
+      "brand": "Lenovo",
+      "type": "laptop",
+      "released": "2023-05",
+      "osUpdateEnd": "2029-05",
+      "securityEnd": "2029-05",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Microsoft Windows lifecycle FAQ",
+          "url": "https://learn.microsoft.com/en-us/lifecycle/faq/windows"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 6,
+        "heavy": 5
+      },
+      "wearTier": "ultrabook",
+      "wearFactors": {
+        "label": "Premium ultrabook",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Soldered RAM and storage; premium build."
+      },
+      "successors": []
+    },
+    {
+      "id": "ipad-9th-gen",
+      "name": "iPad (9th gen)",
+      "brand": "Apple",
+      "type": "tablet",
+      "released": "2021-09",
+      "osUpdateEnd": "2027-09",
+      "securityEnd": "2030-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPadOS 26 compatible iPads",
+          "url": "https://support.apple.com/en-us/122869"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": [
+        "ipad-10th-gen"
+      ]
+    },
+    {
+      "id": "ipad-mini-6",
+      "name": "iPad mini (6th gen)",
+      "brand": "Apple",
+      "type": "tablet",
+      "released": "2021-09",
+      "osUpdateEnd": "2028-09",
+      "securityEnd": "2031-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPadOS 26 compatible iPads",
+          "url": "https://support.apple.com/en-us/122869"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": []
+    },
+    {
+      "id": "ipad-air-m1",
+      "name": "iPad Air (M1)",
+      "brand": "Apple",
+      "type": "tablet",
+      "released": "2022-03",
+      "osUpdateEnd": "2029-09",
+      "securityEnd": "2032-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPadOS 26 compatible iPads",
+          "url": "https://support.apple.com/en-us/122869"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": []
+    },
+    {
+      "id": "ipad-10th-gen",
+      "name": "iPad (10th gen)",
+      "brand": "Apple",
+      "type": "tablet",
+      "released": "2022-10",
+      "osUpdateEnd": "2028-09",
+      "securityEnd": "2031-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPadOS 26 compatible iPads",
+          "url": "https://support.apple.com/en-us/122869"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": []
+    },
+    {
+      "id": "ipad-pro-11-m2",
+      "name": "iPad Pro 11\" (M2)",
+      "brand": "Apple",
+      "type": "tablet",
+      "released": "2022-10",
+      "osUpdateEnd": "2030-09",
+      "securityEnd": "2033-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPadOS 26 compatible iPads",
+          "url": "https://support.apple.com/en-us/122869"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": []
+    },
+    {
+      "id": "ipad-pro-129-m2",
+      "name": "iPad Pro 12.9\" (M2)",
+      "brand": "Apple",
+      "type": "tablet",
+      "released": "2022-10",
+      "osUpdateEnd": "2030-09",
+      "securityEnd": "2033-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple iPadOS 26 compatible iPads",
+          "url": "https://support.apple.com/en-us/122869"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-tab-a8",
+      "name": "Galaxy Tab A8",
+      "brand": "Samsung",
+      "type": "tablet",
+      "released": "2022-01",
+      "osUpdateEnd": "2024-01",
+      "securityEnd": "2026-01",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "tabletBudget",
+      "wearFactors": {
+        "label": "Budget tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Budget cell and chassis; charge cycles dominate."
+      },
+      "successors": [
+        "galaxy-tab-a9"
+      ]
+    },
+    {
+      "id": "galaxy-tab-s8",
+      "name": "Galaxy Tab S8",
+      "brand": "Samsung",
+      "type": "tablet",
+      "released": "2022-02",
+      "osUpdateEnd": "2026-02",
+      "securityEnd": "2027-02",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": [
+        "galaxy-tab-s9"
+      ]
+    },
+    {
+      "id": "galaxy-tab-a9",
+      "name": "Galaxy Tab A9",
+      "brand": "Samsung",
+      "type": "tablet",
+      "released": "2023-10",
+      "osUpdateEnd": "2026-10",
+      "securityEnd": "2027-10",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "tabletBudget",
+      "wearFactors": {
+        "label": "Budget tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Budget cell and chassis; charge cycles dominate."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-tab-s9",
+      "name": "Galaxy Tab S9",
+      "brand": "Samsung",
+      "type": "tablet",
+      "released": "2023-08",
+      "osUpdateEnd": "2027-08",
+      "securityEnd": "2028-08",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung Mobile Security update scope",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": []
+    },
+    {
+      "id": "lenovo-tab-p11",
+      "name": "Tab P11 (2nd gen)",
+      "brand": "Lenovo",
+      "type": "tablet",
+      "released": "2023-01",
+      "osUpdateEnd": "2025-01",
+      "securityEnd": "2027-01",
+      "supportConfidence": "pattern-estimate",
+      "sources": [],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "tabletBudget",
+      "wearFactors": {
+        "label": "Budget tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Budget cell and chassis; charge cycles dominate."
+      },
+      "successors": [
+        "galaxy-tab-a9"
+      ]
+    },
+    {
+      "id": "surface-pro-9",
+      "name": "Surface Pro 9",
+      "brand": "Microsoft",
+      "type": "tablet",
+      "released": "2022-10",
+      "osUpdateEnd": "2028-10",
+      "securityEnd": "2028-10",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Microsoft Surface driver and firmware lifecycle",
+          "url": "https://learn.microsoft.com/en-us/surface/surface-driver-firmware-lifecycle-support"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 8,
+        "moderate": 7,
+        "heavy": 5
+      },
+      "wearTier": "tabletPremium",
+      "wearFactors": {
+        "label": "Premium tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "low",
+        "note": "Large battery, low sustained load."
+      },
+      "successors": []
+    },
+    {
+      "id": "fire-hd-10",
+      "name": "Fire HD 10 (11th gen)",
+      "brand": "Amazon",
+      "type": "tablet",
+      "released": "2021-05",
+      "osUpdateEnd": "2026-06",
+      "securityEnd": "2026-06",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Amazon Fire tablet security updates",
+          "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G3YFLQ5Z33MZA6FT"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "tabletBudget",
+      "wearFactors": {
+        "label": "Budget tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Budget cell and chassis; charge cycles dominate."
+      },
+      "successors": [
+        "fire-hd-8"
+      ]
+    },
+    {
+      "id": "fire-7",
+      "name": "Fire 7 (12th gen)",
+      "brand": "Amazon",
+      "type": "tablet",
+      "released": "2022-06",
+      "osUpdateEnd": "2027-06",
+      "securityEnd": "2027-06",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Amazon Fire tablet security updates",
+          "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G3YFLQ5Z33MZA6FT"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "tabletBudget",
+      "wearFactors": {
+        "label": "Budget tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Budget cell and chassis; charge cycles dominate."
+      },
+      "successors": []
+    },
+    {
+      "id": "fire-hd-8",
+      "name": "Fire HD 8 (12th gen)",
+      "brand": "Amazon",
+      "type": "tablet",
+      "released": "2022-10",
+      "osUpdateEnd": "2027-06",
+      "securityEnd": "2027-06",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Amazon Fire tablet security updates",
+          "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G3YFLQ5Z33MZA6FT"
+        }
+      ],
+      "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 3
+      },
+      "wearTier": "tabletBudget",
+      "wearFactors": {
+        "label": "Budget tablet",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Budget cell and chassis; charge cycles dominate."
+      },
+      "successors": []
+    }
+  ]
+}

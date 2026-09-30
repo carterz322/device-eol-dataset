@@ -1,6 +1,6 @@
 # Device end-of-support dataset
 
-Published security and OS update end dates for **92 consumer devices** — phones, tablets and laptops — with source citations for every entry.
+Published security and OS update end dates for **94 consumer devices** — phones, tablets and laptops — with source citations for every entry.
 
 Most "how long will this last" advice is guesswork. This is the underlying data: when each manufacturer says it stops shipping patches, and where that claim comes from.
 
@@ -39,7 +39,7 @@ Nearly half the dataset is estimated rather than published. That is a fact about
 
 ## Coverage
 
-92 devices: Apple 27, Samsung 22, Google 9, Lenovo 6, OnePlus 3, Acer 3, and others.
+94 devices: Apple 29, Samsung 22, Google 9, Lenovo 6, OnePlus 3, Acer 3, and others.
 
 ## Already past their security cutoff
 

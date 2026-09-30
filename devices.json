@@ -3,8 +3,8 @@
   "description": "Published security and OS update end dates for consumer phones, tablets and laptops, with source citations.",
   "homepage": "https://devicelifespan.com",
   "license": "CC-BY-4.0",
-  "generated": "2026-09-28",
-  "deviceCount": 92,
+  "generated": "2026-09-29",
+  "deviceCount": 94,
   "devices": [
     {
       "id": "iphone-xr",
@@ -41,7 +41,8 @@
       },
       "successors": [
         "iphone-13",
-        "iphone-15"
+        "iphone-15",
+        "iphone-18-pro"
       ]
     },
     {
@@ -155,7 +156,8 @@
       },
       "successors": [
         "iphone-15",
-        "iphone-16"
+        "iphone-16",
+        "iphone-18-pro"
       ]
     },
     {
@@ -193,7 +195,8 @@
       },
       "successors": [
         "iphone-16",
-        "iphone-17"
+        "iphone-17",
+        "iphone-18-pro"
       ]
     },
     {
@@ -267,7 +270,8 @@
         "note": "Premium build and battery; sealed chassis."
       },
       "successors": [
-        "iphone-17"
+        "iphone-17",
+        "iphone-18-pro"
       ]
     },
     {
@@ -3092,6 +3096,76 @@
         "userServiceable": false,
         "thermalLoad": "moderate",
         "note": "Budget cell and chassis; charge cycles dominate."
+      },
+      "successors": []
+    },
+    {
+      "id": "iphone-18-pro",
+      "name": "iPhone 18 Pro",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2026-09",
+      "osUpdateEnd": "2032-09",
+      "securityEnd": "2035-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple announces iPhone 18 Pro and iPhone 18 Pro Max",
+          "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-preorders-release-date-announced/"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-29",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": []
+    },
+    {
+      "id": "iphone-18-pro-max",
+      "name": "iPhone 18 Pro Max",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2026-09",
+      "osUpdateEnd": "2032-09",
+      "securityEnd": "2035-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple announces iPhone 18 Pro and iPhone 18 Pro Max",
+          "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-preorders-release-date-announced/"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-29",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
       },
       "successors": []
     }

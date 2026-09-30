@@ -1,10 +1,10 @@
 {
   "name": "Device end-of-support dataset",
-  "description": "Published security and OS update end dates for consumer phones, tablets and laptops, with source citations.",
+  "description": "Published security and OS update end dates for consumer phones, tablets, laptops, watches, earbuds, consoles and smart home devices, with source citations.",
   "homepage": "https://devicelifespan.com",
   "license": "CC-BY-4.0",
-  "generated": "2026-09-29",
-  "deviceCount": 94,
+  "generated": "2026-09-30",
+  "deviceCount": 105,
   "devices": [
     {
       "id": "iphone-xr",
@@ -490,6 +490,78 @@
         "thermalLoad": "moderate",
         "note": "Premium build and battery; sealed chassis."
       },
+      "successors": [
+        "iphone-18-pro"
+      ]
+    },
+    {
+      "id": "iphone-18-pro",
+      "name": "iPhone 18 Pro",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2026-09",
+      "osUpdateEnd": "2032-09",
+      "securityEnd": "2035-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple announces iPhone 18 Pro and iPhone 18 Pro Max",
+          "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-preorders-release-date-announced/"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-29",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
+      "successors": []
+    },
+    {
+      "id": "iphone-18-pro-max",
+      "name": "iPhone 18 Pro Max",
+      "brand": "Apple",
+      "type": "phone",
+      "released": "2026-09",
+      "osUpdateEnd": "2032-09",
+      "securityEnd": "2035-09",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Apple announces iPhone 18 Pro and iPhone 18 Pro Max",
+          "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-preorders-release-date-announced/"
+        },
+        {
+          "label": "Apple security releases",
+          "url": "https://support.apple.com/en-us/100100"
+        }
+      ],
+      "lastVerified": "2026-09-29",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 4
+      },
+      "wearTier": "phoneFlagship",
+      "wearFactors": {
+        "label": "Flagship phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "moderate",
+        "note": "Premium build and battery; sealed chassis."
+      },
       "successors": []
     },
     {
@@ -577,6 +649,10 @@
         {
           "label": "Google extends Pixel 6, 7 and Fold to five years of OS updates (Dec 2024)",
           "url": "https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/"
+        },
+        {
+          "label": "Google Pixel availability dates",
+          "url": "https://support.google.com/pixelphone/answer/15738422"
         }
       ],
       "lastVerified": "2026-09-28",
@@ -1140,7 +1216,9 @@
         "thermalLoad": "high",
         "note": "Hinge and folding display are additional wear points no other phone has."
       },
-      "successors": []
+      "successors": [
+        "galaxy-z-flip-8"
+      ]
     },
     {
       "id": "galaxy-z-fold-5",
@@ -1158,6 +1236,113 @@
         }
       ],
       "lastVerified": "2026-09-01",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 2
+      },
+      "wearTier": "phoneFoldable",
+      "wearFactors": {
+        "label": "Folding phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Hinge and folding display are additional wear points no other phone has."
+      },
+      "successors": [
+        "galaxy-z-fold-8"
+      ]
+    },
+    {
+      "id": "galaxy-z-fold-8",
+      "name": "Galaxy Z Fold 8",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2026-08",
+      "osUpdateEnd": "2033-08",
+      "securityEnd": "2033-08",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung launches Galaxy Z Fold8 Ultra, Fold8, Flip8",
+          "url": "https://news.samsung.com/global/samsung-officially-launches-galaxy-z-fold8-ultra-fold8-flip8-watch-ultra2-and-watch9"
+        },
+        {
+          "label": "Samsung mobile security updates",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-29",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 2
+      },
+      "wearTier": "phoneFoldable",
+      "wearFactors": {
+        "label": "Folding phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Hinge and folding display are additional wear points no other phone has."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-z-fold-8-ultra",
+      "name": "Galaxy Z Fold 8 Ultra",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2026-08",
+      "osUpdateEnd": "2033-08",
+      "securityEnd": "2033-08",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung launches Galaxy Z Fold8 Ultra, Fold8, Flip8",
+          "url": "https://news.samsung.com/global/samsung-officially-launches-galaxy-z-fold8-ultra-fold8-flip8-watch-ultra2-and-watch9"
+        },
+        {
+          "label": "Samsung mobile security updates",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-29",
+      "replacementYears": {
+        "light": 5,
+        "moderate": 4,
+        "heavy": 2
+      },
+      "wearTier": "phoneFoldable",
+      "wearFactors": {
+        "label": "Folding phone",
+        "batteryReplaceable": false,
+        "userServiceable": false,
+        "thermalLoad": "high",
+        "note": "Hinge and folding display are additional wear points no other phone has."
+      },
+      "successors": []
+    },
+    {
+      "id": "galaxy-z-flip-8",
+      "name": "Galaxy Z Flip 8",
+      "brand": "Samsung",
+      "type": "phone",
+      "released": "2026-08",
+      "osUpdateEnd": "2033-08",
+      "securityEnd": "2033-08",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Samsung launches Galaxy Z Fold8 Ultra, Fold8, Flip8",
+          "url": "https://news.samsung.com/global/samsung-officially-launches-galaxy-z-fold8-ultra-fold8-flip8-watch-ultra2-and-watch9"
+        },
+        {
+          "label": "Samsung mobile security updates",
+          "url": "https://security.samsungmobile.com/workScope.smsb"
+        }
+      ],
+      "lastVerified": "2026-09-29",
       "replacementYears": {
         "light": 5,
         "moderate": 4,
@@ -1375,9 +1560,18 @@
       "released": "2020-03",
       "osUpdateEnd": "2022-03",
       "securityEnd": "2023-03",
-      "supportConfidence": "pattern-estimate",
-      "sources": [],
-      "lastVerified": "2026-09-01",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "LG promises three years of security updates after leaving the phone business",
+          "url": "https://therecord.media/lg-promises-three-years-of-security-updates-after-pulling-out-of-smartphone-biz"
+        },
+        {
+          "label": "LG notice: mobile software update servers terminated",
+          "url": "https://www.lg.com/us/support/announcements-detail/notice-on-termination-of-services-of-lg-electronics-mobile-phone-software-upgrade-update-center-and-lg-bridge-USNTC20250410200140"
+        }
+      ],
+      "lastVerified": "2026-09-30",
       "replacementYears": {
         "light": 7,
         "moderate": 6,
@@ -2952,10 +3146,19 @@
       "type": "tablet",
       "released": "2023-01",
       "osUpdateEnd": "2025-01",
-      "securityEnd": "2027-01",
-      "supportConfidence": "pattern-estimate",
-      "sources": [],
-      "lastVerified": "2026-09-01",
+      "securityEnd": "2025-10",
+      "supportConfidence": "announced-policy",
+      "sources": [
+        {
+          "label": "Lenovo Android upgrade matrix",
+          "url": "https://support.lenovo.com/us/en/solutions/ht501098-android-upgrade-matrix"
+        },
+        {
+          "label": "Lenovo Android 14 update timeline by device",
+          "url": "https://mynexttablet.com/lenovo-android-14-update/"
+        }
+      ],
+      "lastVerified": "2026-09-30",
       "replacementYears": {
         "light": 5,
         "moderate": 4,
@@ -3100,73 +3303,215 @@
       "successors": []
     },
     {
-      "id": "iphone-18-pro",
-      "name": "iPhone 18 Pro",
+      "id": "apple-watch-s9",
+      "name": "Watch Series 9",
       "brand": "Apple",
-      "type": "phone",
-      "released": "2026-09",
-      "osUpdateEnd": "2032-09",
-      "securityEnd": "2035-09",
+      "type": "watch",
+      "released": "2023-09",
+      "osUpdateEnd": null,
+      "securityEnd": "2028-09",
       "supportConfidence": "pattern-estimate",
       "sources": [
         {
-          "label": "Apple announces iPhone 18 Pro and iPhone 18 Pro Max",
-          "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-preorders-release-date-announced/"
-        },
-        {
           "label": "Apple security releases",
           "url": "https://support.apple.com/en-us/100100"
+        },
+        {
+          "label": "Apple Watch support by model",
+          "url": "https://endoflife.date/apple-watch"
         }
       ],
-      "lastVerified": "2026-09-29",
+      "lastVerified": "2026-09-30",
       "replacementYears": {
-        "light": 7,
-        "moderate": 6,
-        "heavy": 4
+        "light": 4,
+        "moderate": 3,
+        "heavy": 2
       },
-      "wearTier": "phoneFlagship",
-      "wearFactors": {
-        "label": "Flagship phone",
-        "batteryReplaceable": false,
-        "userServiceable": false,
-        "thermalLoad": "moderate",
-        "note": "Premium build and battery; sealed chassis."
-      },
+      "wearTier": null,
+      "wearFactors": null,
       "successors": []
     },
     {
-      "id": "iphone-18-pro-max",
-      "name": "iPhone 18 Pro Max",
+      "id": "pixel-watch-2",
+      "name": "Pixel Watch 2",
+      "brand": "Google",
+      "type": "watch",
+      "released": "2023-10",
+      "osUpdateEnd": "2026-10",
+      "securityEnd": "2026-10",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "When you'll get software updates for Google Pixel Watch",
+          "url": "https://support.google.com/product-documentation/answer/12799779"
+        }
+      ],
+      "lastVerified": "2026-09-30",
+      "replacementYears": {
+        "light": 4,
+        "moderate": 3,
+        "heavy": 2
+      },
+      "wearTier": null,
+      "wearFactors": null,
+      "successors": []
+    },
+    {
+      "id": "airpods-pro-2",
+      "name": "AirPods Pro (2nd Gen)",
       "brand": "Apple",
-      "type": "phone",
-      "released": "2026-09",
-      "osUpdateEnd": "2032-09",
-      "securityEnd": "2035-09",
+      "type": "earbuds",
+      "released": "2022-09",
+      "osUpdateEnd": null,
+      "securityEnd": "2027-09",
       "supportConfidence": "pattern-estimate",
       "sources": [
         {
-          "label": "Apple announces iPhone 18 Pro and iPhone 18 Pro Max",
-          "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-preorders-release-date-announced/"
+          "label": "About firmware updates for AirPods",
+          "url": "https://support.apple.com/en-us/106340"
         },
         {
-          "label": "Apple security releases",
-          "url": "https://support.apple.com/en-us/100100"
+          "label": "Apple releases new AirPods firmware with iOS 27 features",
+          "url": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/"
         }
       ],
-      "lastVerified": "2026-09-29",
+      "lastVerified": "2026-09-30",
+      "replacementYears": {
+        "light": 3.5,
+        "moderate": 2.5,
+        "heavy": 1.5
+      },
+      "wearTier": null,
+      "wearFactors": null,
+      "successors": []
+    },
+    {
+      "id": "galaxy-buds-2-pro",
+      "name": "Galaxy Buds 2 Pro",
+      "brand": "Samsung",
+      "type": "earbuds",
+      "released": "2022-08",
+      "osUpdateEnd": null,
+      "securityEnd": "2026-08",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Galaxy Buds 2 Pro stability update, April 2026",
+          "url": "https://www.sammyfans.com/2026/04/22/new-galaxy-buds-2-pro-update-stability-improvements/"
+        }
+      ],
+      "lastVerified": "2026-09-30",
+      "replacementYears": {
+        "light": 3,
+        "moderate": 2,
+        "heavy": 1.5
+      },
+      "wearTier": null,
+      "wearFactors": null,
+      "successors": []
+    },
+    {
+      "id": "nintendo-switch-oled",
+      "name": "Switch OLED",
+      "brand": "Nintendo",
+      "type": "console",
+      "released": "2021-10",
+      "osUpdateEnd": null,
+      "securityEnd": "2028-10",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "Nintendo Switch system update history",
+          "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/43314/~/system-update-history-for-nintendo-switch"
+        },
+        {
+          "label": "Nintendo will stop selling the original Switch from February 2027",
+          "url": "https://www.nintendolife.com/news/2026/07/nintendo-will-stop-selling-the-original-switch-from-february-2027"
+        }
+      ],
+      "lastVerified": "2026-09-30",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 5,
+        "heavy": 3
+      },
+      "wearTier": null,
+      "wearFactors": null,
+      "successors": []
+    },
+    {
+      "id": "steam-deck-oled",
+      "name": "Steam Deck OLED",
+      "brand": "Valve",
+      "type": "console",
+      "released": "2023-11",
+      "osUpdateEnd": null,
+      "securityEnd": "2030-11",
+      "supportConfidence": "pattern-estimate",
+      "sources": [
+        {
+          "label": "SteamOS 3.6.19 stable release",
+          "url": "https://steamcommunity.com/games/1675200/announcements/detail/4676514574283544995"
+        }
+      ],
+      "lastVerified": "2026-09-30",
+      "replacementYears": {
+        "light": 6,
+        "moderate": 4,
+        "heavy": 2.5
+      },
+      "wearTier": null,
+      "wearFactors": null,
+      "successors": []
+    },
+    {
+      "id": "echo-dot-5",
+      "name": "Echo Dot (5th Gen)",
+      "brand": "Amazon",
+      "type": "smarthome",
+      "released": "2022-10",
+      "osUpdateEnd": null,
+      "securityEnd": "2029-12",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Amazon Echo software security updates",
+          "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GMZQWNQRVENX4GTQ"
+        }
+      ],
+      "lastVerified": "2026-09-30",
       "replacementYears": {
         "light": 7,
         "moderate": 6,
-        "heavy": 4
+        "heavy": 5
       },
-      "wearTier": "phoneFlagship",
-      "wearFactors": {
-        "label": "Flagship phone",
-        "batteryReplaceable": false,
-        "userServiceable": false,
-        "thermalLoad": "moderate",
-        "note": "Premium build and battery; sealed chassis."
+      "wearTier": null,
+      "wearFactors": null,
+      "successors": []
+    },
+    {
+      "id": "nest-hub-2",
+      "name": "Nest Hub (2nd Gen)",
+      "brand": "Google",
+      "type": "smarthome",
+      "released": "2021-03",
+      "osUpdateEnd": null,
+      "securityEnd": "2026-03",
+      "supportConfidence": "official",
+      "sources": [
+        {
+          "label": "Security updates for Google Nest devices",
+          "url": "https://support.google.com/product-documentation/answer/10231940"
+        }
+      ],
+      "lastVerified": "2026-09-30",
+      "replacementYears": {
+        "light": 7,
+        "moderate": 6,
+        "heavy": 5
       },
+      "wearTier": null,
+      "wearFactors": null,
       "successors": []
     }
   ]
